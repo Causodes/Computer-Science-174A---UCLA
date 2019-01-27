@@ -14,7 +14,7 @@ Our project is a fishing game where the player is able to catch randomly moving 
 
 ## Individual Contributions:
 ### Tian Ye:
-Basic Game Framework, Fish Movement and Textures, Fishing Line Model, Player Controls
+Basic Game Framework, Fish Movement and Textures, Fishing Line Model, Player Controls, Environment
 
 ### Bradley Zhu:
 Shadows, Light Source, Pond
